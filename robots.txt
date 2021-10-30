@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://romanenko1509.github.io/contact-me/
+Host: https://romanenko1509.github.io/
 
 # Sitemaps
-Sitemap: https://romanenko1509.github.io/contact-me/sitemap.xml
+Sitemap: https://romanenko1509.github.io/sitemap.xml
